@@ -1,0 +1,32 @@
+Account settings
+Profile
+Account
+Appearance
+Account security
+Billing & plans
+Security log
+Security & analysis
+Emails
+Notifications
+SSH and GPG keys
+Repositories
+Packages
+Organizations
+Saved replies
+Applications
+Developer settings
+Moderation settings
+Blocked users
+Interaction limits
+Emails
+
+Please verify an email address to collaborate on GitHub, receive notifications, and help us protect your account.
+
+    2439324877@qq.com
+    – Primary 
+
+Unverified
+Not visible in emails
+Receives notifications
+
+Add email address
